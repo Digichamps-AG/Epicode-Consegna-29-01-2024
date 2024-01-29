@@ -1,0 +1,11 @@
+Il dataset scelto prende in esame lo stipendio di diverse figure del mondo dell'analisi dati,
+tenendo in considerazione molteplici fattori come: tipo di lavoro, tipo di contratto (full-time, part-time, ecc),
+livello di esperienza, area geografica dell'azienda, ecc.
+
+Dato che un membro del gruppo aveva Jupiter, c'è un report fatto completamente su Jupiter come richiesto dalla consegna.
+Trattandosi di una persona con esperienza di programmazione alle spalle, ci ha anche mostrato funzioni avanzate.
+
+Per chi come me non aveva Jupiter, e non aveva esperienze pregresse, abbiamo deciso di replicare le analisi usando altri editor (es: Visual Studio Code)
+e, se necessario e per chi voleva, fare analisi diverse (usando gli argomenti visti a lezione).
+Nella repository di github si trovano quindi sia il report su Jupiter, sia tutti i file .py che ho scritto, non
+avendo appunto esperienza pregressa (tendenzialmente a ogni file corrisponde un tipo di analisi).

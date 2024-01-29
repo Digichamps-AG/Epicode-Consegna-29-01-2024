@@ -1,0 +1,6 @@
+Se il link a cui si trova il dataset (file = "https://raw.githubusercontent.com/Digichamps-AG/Epicode-Consegna-29-01-2024/main/data_science_salaries.csv")
+non dovesse funzionare:
+1)Commentare la linea di codice con il link (è sempre intorno a riga 6)
+2)Togliere il commento alla riga 5, che è sempre la seguente:
+#file = "./data_science_salaries.csv"
+N.B. Assicurarsi di avere il file CSV(data_science_salaries.csv) nella stessa cartella del file python
